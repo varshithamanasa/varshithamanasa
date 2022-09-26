@@ -1,4 +1,5 @@
-### Hi there 👋 this is Varshitha, currently I am pursuing my masters in Data Analytics at clark university.
+### Hi there 👋 this is Varshitha!!!
+
 
 <!--
 **varshithamanasa/varshithamanasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
