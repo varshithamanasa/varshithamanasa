@@ -7,13 +7,7 @@
 </div>
 <div align="left">
   
-<h3>📬 Connect with me</h3>
-<p align="left">
-  
-    <a href="mailto:varshitha98m@gmail.com" target="blank">
-        <img align="center" src="https://img.shields.io/badge/varshitha98m@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-</p>
+
 
 <p align="center">
     <img  />
