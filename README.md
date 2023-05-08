@@ -9,8 +9,7 @@
   
 <h3>📬 Connect with me</h3>
 <p align="left">
-    <a href="www.linkedin.com/in/varshitha-m-833895199" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Varshitha Manjunath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
     <a href="mailto:varshitha98m@gmail.com" target="blank">
         <img align="center" src="https://img.shields.io/badge/varshitha98m@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
