@@ -2,8 +2,9 @@
 <h1> Hi y'all<coders/> this is <a href="https://github.com/varshithamanasa">Varshitha Manjunath<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px" height="50px"/></h1>
 <Br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student|Python%20|%20Machine+Learning%20|%20Data+Analytics%20|Experimenting%20with%20new%20technologies&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Assistant+Professor+%26+Chair+of+Cybersecurity|Python%20|%20Machine+Learning%20|%20Data+Analytics%20|Experimenting%20with%20new%20technologies&center=true&width=500&height=50"></a>
 </p>
+
 </div>
 <div align="left">
   
