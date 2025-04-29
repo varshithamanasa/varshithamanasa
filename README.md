@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
 <h1> Hi y'all<coders/> this is <a href="https://github.com/varshithamanasa">Varshitha Manjunath<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px" height="50px"/></h1>
 <Br>
 <p align="center">
@@ -26,5 +26,18 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshithamanasa&show_icons=true&locale=en&layout=compact&theme=merko" alt="varshithamanasa" /></p><br>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varshithamanasa&show_icons=true&locale=en&theme=merko" alt="varshithamanasa" /></p><br> -->
-
+-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varshithamanasa&&theme=merko" alt="varshithamanasa" /></p>
+
+
+# 👋 Hi there , I'm 0xLegitimateUser 👋
+
+I'm a **Security Researcher** at **@[Checkmarx](Checkmarx.com)** and i love *open source!*
+![stats](https://user-images.githubusercontent.com/58976716/233138769-022c7589-c06d-4760-b691-546b29e30c51.svg)
+
+### Current Projects
+![img](https://user-images.githubusercontent.com/58976716/233132079-e85658cd-72f5-4d0c-8551-576bc7490fc1.svg)
+![](https://user-images.githubusercontent.com/58976716/233132091-e12c1ae5-aa2d-4d96-a322-53728c03dc1b.svg)
+![](https://user-images.githubusercontent.com/58976716/233132101-731619e9-9c72-41b2-90b5-1a54d799c84b.svg)
+![](https://user-images.githubusercontent.com/58976716/233132113-ed445f9f-f477-47cf-ae4b-400fe836ac2a.svg)
+
